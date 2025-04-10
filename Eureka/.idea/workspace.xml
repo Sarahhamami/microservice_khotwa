@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7db824bc-efd5-44a0-ae40-8cc1eef4872c" name="Changes" comment="eureka commit">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2scFeJ5Rhnck4Zo3urmDockGsQ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Eureka [clean].executor": "Run",
+    "Maven.Eureka [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Spring Boot.EurekaApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "eureka",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/abdel/Downloads/wetransfer_apigateway4sae2-rar_2025-04-10_1433/Eureka/Eureka",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "3a8eafabab929e2d3559238d7d67e25f",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7db824bc-efd5-44a0-ae40-8cc1eef4872c" name="Changes" comment="" />
+      <created>1738747050879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738747050879</updated>
+      <workItem from="1738747051913" duration="1878000" />
+      <workItem from="1738932806563" duration="386000" />
+      <workItem from="1738943446354" duration="784000" />
+      <workItem from="1739175992348" duration="360000" />
+      <workItem from="1739347950987" duration="3153000" />
+      <workItem from="1739519931865" duration="6870000" />
+      <workItem from="1739616744016" duration="1212000" />
+      <workItem from="1739707518049" duration="1474000" />
+      <workItem from="1739880162538" duration="791000" />
+      <workItem from="1739952552732" duration="1230000" />
+      <workItem from="1739981176719" duration="602000" />
+      <workItem from="1740038332874" duration="1465000" />
+      <workItem from="1740143080543" duration="2527000" />
+      <workItem from="1740384592387" duration="3829000" />
+      <workItem from="1740493128804" duration="8000" />
+      <workItem from="1740557595296" duration="3531000" />
+      <workItem from="1740568361317" duration="269000" />
+      <workItem from="1740591997228" duration="731000" />
+      <workItem from="1740861590000" duration="711000" />
+      <workItem from="1744296565471" duration="1462000" />
+    </task>
+    <task id="LOCAL-00001" summary="eureka commit">
+      <option name="closed" value="true" />
+      <created>1740392957043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740392957044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eureka commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="eureka commit" />
+  </component>
+</project>
