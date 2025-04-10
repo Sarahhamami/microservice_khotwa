@@ -62,7 +62,6 @@ KHOTWA is a modular e-learning platform designed with scalability, flexibility, 
 - **API Gateway** handles routing and authentication
 - Services are loosely coupled and can be scaled independently
 
-![Architecture Diagram](architecture-diagram.png) <!-- Add your actual image path if available -->
 
 ---
 
